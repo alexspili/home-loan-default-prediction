@@ -6,6 +6,6 @@ The main corpus of data is 750,000 home loan documents (“_Deeds of Trust_”) 
 
 This info will be combined with tax assessment, census, tax delinquencies and property prices data from separate databases in order to form a complete set of publicly available features, aiming to find reliable predictors of home loan defaults.
 
-
+[![Austin home mortgages](https://github.com/alexspili/ROC-n-Prof/blob/master/Screenshot.png "Austin home mortgages")][Austin home mortgages]
 
 [Austin home mortgages]: http://alexspiliotopoulos.com/aws/mortgages
